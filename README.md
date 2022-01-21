@@ -1,0 +1,2 @@
+# wptest
+wordpressのテストファイルです。
